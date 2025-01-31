@@ -1,4 +1,4 @@
-# Página Principal - [Tu Nombre]
+# Fernando Navarro González
 
 ¡Hola! Soy un estudiante de **Ingeniería Informática** y **Administración y Dirección de Empresas (ADE)** en la **Universidad de Alicante (UA)**. En este repositorio se encuentra mi página personal, donde comparto mis proyectos, estudios, investigaciones y más sobre mi carrera.
 
@@ -18,23 +18,6 @@ Me interesa el desarrollo de software, la inteligencia artificial, el análisis 
 ## Proyectos
 
 Aquí puedes encontrar algunos de los proyectos que he desarrollado a lo largo de mi formación. Algunos proyectos son trabajos universitarios, otros son proyectos personales o colaborativos.
-
-### 1. **[Proyecto de Desarrollo Web](link-al-proyecto)**
-   - Descripción: Un sistema de gestión de tareas desarrollado con **React.js** y **Node.js**.
-   - Tecnologías: React, Node.js, MongoDB.
-   - Objetivo: Mejorar la organización personal mediante una aplicación sencilla pero eficiente.
-
-### 2. **[Análisis de Datos Financieros](link-al-proyecto)**
-   - Descripción: Análisis de datos financieros utilizando **Python** y **Pandas** para predecir tendencias de mercado.
-   - Tecnologías: Python, Pandas, Matplotlib.
-   - Objetivo: Desarrollar modelos predictivos para el análisis de información financiera.
-
-### 3. **[Aplicación de Gestión de Inventarios](link-al-proyecto)**
-   - Descripción: Una aplicación para gestionar inventarios empresariales, desarrollada con **Java**.
-   - Tecnologías: Java, MySQL.
-   - Objetivo: Facilitar el control de stock y mejorar la logística empresarial.
-
-Puedes explorar más proyectos en mi [perfil de GitHub](https://github.com/tu-usuario).
 
 ## Educación
 
@@ -64,9 +47,9 @@ A lo largo de mi formación, he adquirido experiencia en diversas tecnologías y
 
 Si tienes alguna pregunta, propuesta o simplemente deseas conectar, no dudes en contactarme:
 
-- **Correo electrónico**: [tu.email@ua.es](mailto:tu.email@ua.es)
-- **GitHub**: [https://github.com/tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn**: [https://linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+- **Correo electrónico**: [fng8@gcloud.ua.es](mailto:fng8@gcloud.ua.es)
+- **GitHub**: [https://github.com/fng8-ua](https://github.com/fng8-ua)
+- **LinkedIn**: [https://www.linkedin.com/in/fernando-navarro-gonzález-801919135/](https://www.linkedin.com/in/fernando-navarro-gonzález-801919135/)
 
 ---
 
